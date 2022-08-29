@@ -34,4 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          sed -i 's/master-*/master-newtag/g' readme.txt
+          sed -i 's/master-*/master-newtag/g' README.md
